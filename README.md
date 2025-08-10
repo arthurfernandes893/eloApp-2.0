@@ -1,5 +1,8 @@
 # ELOApp 2.0 - Sistema de Automação para Acolhimento de Igreja
 
+> ⚠️ **Work in Progress**
+
+
 ##  Propósito Principal
 
 Este projeto é uma solução para automatizar o fluxo de trabalho do Ministério de Acolhimento, inicialmente desenvolvido de forma voluntária por e para os membros da [Primeira Igreja Batista de Iraja](https://www.igrejadeiraja.org.br/). O objetivo é eliminar tarefas manuais, organizar o processo de contato com visitantes e fornecer uma maneira centralizada e eficiente de gerenciar os dados, desde a entrada inicial até o acompanhamento e a sincronização entre múltiplos usuários.
